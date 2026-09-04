@@ -1,0 +1,25 @@
+# Temporary and system files
+.ipynb_checkpoints/
+.virtual_documents/
+*.aux.xml
+*.gpkg-wal
+*.gpkg-shm
+*.qmd
+
+# Large source and processed raster data
+data/raw/landsat/
+data/raw/*.tif
+data/raw/*.tiff
+data/processed/*.tif
+data/processed/*.tiff
+data/processed/*.png
+
+# Downloaded EarthExplorer webpage files
+EarthExplorer_files/
+EarthExplorer.html
+
+# Unrelated legacy file
+data/raw/charged_grid_ghsl_features.csv
+
+# Windows temporary file
+New Text Document.txt
