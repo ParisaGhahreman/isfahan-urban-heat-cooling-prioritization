@@ -101,3 +101,10 @@ A license file will be added before the first public release.
 ## Citation
 
 A `CITATION.cff` file will be added before the first public release.
+## License
+
+A license file will be added before the first public release.
+
+## Citation
+
+A `CITATION.cff` file will be added before the first public release.
