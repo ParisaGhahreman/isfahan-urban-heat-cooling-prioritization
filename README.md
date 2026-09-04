@@ -101,10 +101,6 @@ A license file will be added before the first public release.
 ## Citation
 
 A `CITATION.cff` file will be added before the first public release.
-## License
 
-A license file will be added before the first public release.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22298756.svg)](https://doi.org/10.5281/zenodo.22298756)
 
-## Citation
-
-A `CITATION.cff` file will be added before the first public release.
