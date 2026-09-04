@@ -5,7 +5,7 @@ title: "Urban Heat Cooling Intervention Prioritization in Isfahan"
 authors:
   - family-names: "Ghahreman Shahraki"
     given-names: "Parisa"
-date-released: 2version: 1.0.1026-09-04
-version: 1.0.1
+version: "1.0.2"
+date-released: "2026-09-04"
 url: "https://github.com/ParisaGhahreman/isfahan-urban-heat-cooling-prioritization"
-license: MIT
+license: "MIT"
